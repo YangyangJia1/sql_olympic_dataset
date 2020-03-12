@@ -1,0 +1,282 @@
+season,country,events
+summer,"AFG - Afghanistan",1
+summer,"ARU - Aruba",1
+summer,"BDI - Burundi",1
+summer,"BOT - Botswana",1
+summer,"CAN - Canada",1
+summer,"COD - Congo (Kinshasa)",1
+summer,"CYP - Cyprus",1
+summer,"ERI - Eritrea",1
+summer,"FSM - Federated States of Micronesia",1
+summer,"GHA - Ghana",1
+summer,"HKG - Hong Kong",1
+summer,"ISL - Iceland",1
+summer,"KAZ - Kazakhstan",1
+summer,"LAT - Latvia",1
+summer,"LUX - Luxembourg",1
+summer,"MGL - Mongolia",1
+summer,"MRI - Mauritius",1
+summer,"NIG - Niger",1
+summer,"PHI - Philippines",1
+summer,"QAT - Qatar",1
+summer,"SEY - Seychelles",1
+summer,"SRB - Serbia",1
+summer,"SWE - Sweden",1
+summer,"TLS - Timor Leste",1
+summer,"UGA - Uganda",1
+summer,"YEM - Yemen",1
+winter,"AUT - Austria",1
+winter,"CAY - Cayman Islands",1
+winter,"ESP - Spain",1
+winter,"HUN - Hungary",1
+winter,"KAZ - Kazakhstan",1
+winter,"MAR - Morocco",1
+winter,"NEP - Nepal",1
+winter,"RUS - Russia",1
+winter,"TJK - Tajikistan",1
+winter,"ZIM - Zimbabwe",1
+summer,"ALB - Albania",1
+summer,"ASA - American Samoa",1
+summer,"BEL - Belgium",1
+summer,"BRA - Brazil",1
+summer,"CAY - Cayman Islands",1
+summer,"COK - Cook Islands",1
+summer,"CZE - Czech Republic",1
+summer,"ESA - El Salvador",1
+summer,"GAB - Gabon",1
+summer,"GRE - Greece",1
+summer,"HON - Honduras",1
+summer,"ISR - Israel",1
+summer,"KEN - Kenya",1
+summer,"LBA - Libya",1
+summer,"MAD - Madagascar",1
+summer,"MHL - Marshall Islands",1
+summer,"MTN - Mauritania",1
+summer,"NOR - Norway",1
+summer,"PLE - Palestine",1
+summer,"ROT - Refugee Olympic Athletes",1
+summer,"SGP - Singapore",1
+summer,"SRI - Sri Lanka",1
+summer,"SWZ - Swaziland",1
+summer,"TOG - Togo",1
+summer,"UKR - Ukraine",1
+summer,"ZAM - Zambia",1
+winter,"AZE - Azerbaijan",1
+winter,"CHI - Chile",1
+winter,"EST - Estonia",1
+winter,"IND - India",1
+winter,"KGZ - Kyrgyzstan",1
+winter,"MDA - Moldova",1
+winter,"NOR - Norway",1
+winter,"SLO - Slovenia",1
+winter,"TLS - Timor Leste",1
+summer,"ALG - Algeria",1
+summer,"AUS - Australia",1
+summer,"BEN - Benin",1
+summer,"BRN - Bahrain",1
+summer,"CGO - Congo (Brazzaville)",1
+summer,"COL - Colombia",1
+summer,"DEN - Denmark",1
+summer,"ESP - Spain",1
+summer,"GAM - Gambia",1
+summer,"GRN - Grenada",1
+summer,"HUN - Hungary",1
+summer,"ISV - United States Virgin Islands",1
+summer,"KGZ - Kyrgyzstan",1
+summer,"LBR - Liberia",1
+summer,"MAR - Morocco",1
+summer,"MKD - Macedonia",1
+summer,"MYA - Myanmar",1
+summer,"NZL - New Zealand",1
+summer,"PLW - Palau",1
+summer,"ROU - Romania",1
+summer,"SKN - Saint Kitts and Nevis",1
+summer,"SSD - South Sudan",1
+summer,"SYR - Syria",1
+summer,"TPE - Chinese Taipei",1
+summer,"URU - Uruguay",1
+summer,"ZIM - Zimbabwe",1
+winter,"BER - Bermuda",1
+winter,"CHN - China",1
+winter,"FIN - Finland",1
+winter,"IRI - Iran",1
+winter,"KOR - South Korea",1
+winter,"MEX - Mexico",1
+winter,"NZL - New Zealand",1
+winter,"SMR - San Marino",1
+winter,"TOG - Togo",1
+summer,"AND - Andorra",1
+summer,"AUT - Austria",1
+summer,"BER - Bermuda",1
+summer,"BRU - Brunei",1
+summer,"CHA - Chad",1
+summer,"COM - Comoros",1
+summer,"DJI - Djibouti",1
+summer,"EST - Estonia",1
+summer,"GBR - Great Britain",1
+summer,"GUA - Guatemala",1
+summer,"INA - Indonesia",1
+summer,"ITA - Italy",1
+summer,"KIR - Kiribati",1
+summer,"LCA - Saint Lucia",1
+summer,"MAS - Malaysia",1
+summer,"MLI - Mali",1
+summer,"NAM - Namibia",1
+summer,"OMA - Oman",1
+summer,"PNG - Papua New Guinea",1
+summer,"RSA - South Africa",1
+summer,"SLE - Sierra Leone",1
+summer,"STP - Sao Tome and Principe",1
+summer,"TAN - Tanzania",1
+summer,"TTO - Trinidad and Tobago",1
+summer,"USA - United States",1
+winter,"ALB - Albania",1
+winter,"BIH - Bosnia and Herzegovina",1
+winter,"CRO - Croatia",1
+winter,"FRA - France",1
+winter,"IRL - Ireland",1
+winter,"LAT - Latvia",1
+winter,"MGL - Mongolia",1
+winter,"PAK - Pakistan",1
+winter,"SRB - Serbia",1
+winter,"TUR - Turkey",1
+summer,"ANG - Angola",1
+summer,"AZE - Azerbaijan",1
+summer,"BIH - Bosnia and Herzegovina",1
+summer,"BUL - Bulgaria",1
+summer,"CHI - Chile",1
+summer,"CPV - Cape Verde",1
+summer,"DMA - Dominica",1
+summer,"ETH - Ethiopia",1
+summer,"GBS - Guinea Bissau",1
+summer,"GUI - Guinea",1
+summer,"IND - India",1
+summer,"IVB - British Virgin Islands",1
+summer,"KOR - South Korea",1
+summer,"LES - Lesotho",1
+summer,"MAW - Malawi",1
+summer,"MLT - Malta",1
+summer,"NCA - Nicaragua",1
+summer,"PAK - Pakistan",1
+summer,"POL - Poland",1
+summer,"RUS - Russia",1
+summer,"SLO - Slovenia",1
+summer,"SUD - Sudan",1
+summer,"TGA - Tonga",1
+summer,"TUN - Tunisia",1
+summer,"UZB - Uzbekistan",1
+winter,"AND - Andorra",1
+winter,"BLR - Belarus",1
+winter,"CYP - Cyprus",1
+winter,"GBR - Great Britain",1
+winter,"ISL - Iceland",1
+winter,"LIB - Lebanon",1
+winter,"MKD - Macedonia",1
+winter,"PER - Peru",1
+winter,"SUI - Switzerland",1
+winter,"UKR - Ukraine",1
+summer,"ANT - Antigua and Barbuda",1
+summer,"BAH - Bahamas",1
+summer,"BIZ - Belize",1
+summer,"BUR - Burkina Faso",1
+summer,"CHN - China",1
+summer,"CRC - Costa Rica",1
+summer,"DOM - Dominican Republic",1
+summer,"FIJ - Fiji",1
+summer,"GEO - Georgia",1
+summer,"GUM - Guam",1
+summer,"IOA - Individual Olympic Athletes",1
+summer,"JAM - Jamaica",1
+summer,"KOS - Kosovo",1
+summer,"LIB - Lebanon",1
+summer,"MDA - Moldova",1
+summer,"MNE - Montenegro",1
+summer,"NED - Netherlands",1
+summer,"PAN - Panama",1
+summer,"POR - Portugal",1
+summer,"RWA - Rwanda",1
+summer,"SMR - San Marino",1
+summer,"SUI - Switzerland",1
+summer,"THA - Thailand",1
+summer,"TUR - Turkey",1
+summer,"VEN - Venezuela",1
+winter,"ARG - Argentina",1
+winter,"BRA - Brazil",1
+winter,"CZE - Czech Republic",1
+winter,"GEO - Georgia",1
+winter,"ISV - United States Virgin Islands",1
+winter,"LIE - Liechtenstein",1
+winter,"MLT - Malta",1
+winter,"POL - Poland",1
+winter,"SVK - Slovakia",1
+winter,"USA - United States",1
+summer,"ARG - Argentina",1
+summer,"BAN - Bangladesh",1
+summer,"BLR - Belarus",1
+summer,"CAF - Central African Republic",1
+summer,"CIV - Cote d'Ivoire",1
+summer,"CRO - Croatia",1
+summer,"ECU - Ecuador",1
+summer,"FIN - Finland",1
+summer,"GEQ - Equatorial Guinea",1
+summer,"GUY - Guyana",1
+summer,"IRI - Iran",1
+summer,"JOR - Jordan",1
+summer,"KSA - Saudi Arabia",1
+summer,"LIE - Liechtenstein",1
+summer,"MDV - Maldives",1
+summer,"MON - Monaco",1
+summer,"NEP - Nepal",1
+summer,"PAR - Paraguay",1
+summer,"PRK - North Korea",1
+summer,"SAM - Samoa",1
+summer,"SOL - Solomon Islands",1
+summer,"SUR - Suriname",1
+summer,"TJK - Tajikistan",1
+summer,"TUV - Tuvalu",1
+summer,"VIE - Vietnam",1
+winter,"ARM - Armenia",1
+winter,"BUL - Bulgaria",1
+winter,"DEN - Denmark",1
+winter,"GER - Germany",1
+winter,"ITA - Italy",1
+winter,"LTU - Lithuania",1
+winter,"MNE - Montenegro",1
+winter,"POR - Portugal",1
+winter,"SWE - Sweden",1
+winter,"UZB - Uzbekistan",1
+summer,"ARM - Armenia",1
+summer,"BAR - Barbados",1
+summer,"BOL - Bolivia",1
+summer,"CAM - Cambodia",1
+summer,"CMR - Cameroon",1
+summer,"CUB - Cuba",1
+summer,"EGY - Egypt",1
+summer,"FRA - France",1
+summer,"GER - Germany",1
+summer,"HAI - Haiti",1
+summer,"IRL - Ireland",1
+summer,"JPN - Japan",1
+summer,"LAO - Laos",1
+summer,"LTU - Lithuania",1
+summer,"MEX - Mexico",1
+summer,"MOZ - Mozambique",1
+summer,"NGR - Nigeria",1
+summer,"PER - Peru",1
+summer,"PUR - Puerto Rico",1
+summer,"SEN - Senegal",1
+summer,"SOM - Somalia",1
+summer,"SVK - Slovakia",1
+summer,"TKM - Turkmenistan",1
+summer,"UAE - United Arab Emirates",1
+summer,"VIN - Saint Vincent and the Grenadines",1
+winter,"AUS - Australia",1
+winter,"CAN - Canada",1
+winter,"DMA - Dominica",1
+winter,"GRE - Greece",1
+winter,"JPN - Japan",1
+winter,"LUX - Luxembourg",1
+winter,"MON - Monaco",1
+winter,"ROU - Romania",1
+winter,"THA - Thailand",1
+winter,"VEN - Venezuela",1
