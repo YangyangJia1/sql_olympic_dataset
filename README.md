@@ -17,5 +17,5 @@
 This project folder contains:
 * [Queries](https://github.com/YangyangJia1/sql_olympic_dataset/tree/master/files/queries)
 * [Data](https://github.com/YangyangJia1/sql_olympic_dataset/tree/master/files/data)
-* [Tableau Visualization](https://us-west-2b.online.tableau.com/#/site/yangyangjia01/workbooks/186179/views)
+* [Tableau Visualization](https://public.tableau.com/profile/yangyang.jia#!/vizhome/AnalyzeOlympicDataset/Dashboard1)
 * [Paper](#)
